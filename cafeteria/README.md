@@ -1,4 +1,6 @@
 # "A cafeteria"
+[Problem](https://www.dikastis.com.br/problems/01EJGP11RGQEJQKRRJR84Y60T8)
+
 ![Cafeteria](https://github.com/paulohltc/questoesIP/blob/main/cafeteria/src/cafeteria1.jpg)
 
 Este cenário de Among Us é composto de no **mínimo** 2 integrantes (**1 Impostor e 1 tripulante**), isso implica que, havendo mais integrantes, é possível um número maior de impostores.  A partida inicia com um jogador ausente temporariamente e os demais jogadores permanecem imóveis em função de um justo acordo prévio. Enquanto isso, o Impostor articula seus planos discretamente, cujo objetivo é matar os tripulantes mais distantes (importante observar a possibilidade de mais de 1 impostor e assim considerar a maior distância **COMUM** dos impostores envolvidos). 
